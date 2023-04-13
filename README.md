@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A curious .Net Developer from Turkey!</h3>
 ```yaml
+
 name: Burak Ayan
 located_in: Maltepe, ISTANBUL
 current_job: Full Stack Developer
@@ -44,6 +45,7 @@ want_to_learn :
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies and find a job."]
 
 hobbies: ["Gaming", "Trekking", "Camping", "Rock Climbing", "Psychology","Ping Pong"]
+
 ```
 
 <h3 align="left">Connect with me:</h3>
