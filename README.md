@@ -1,12 +1,49 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A curious .Net Developer from Turkey!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakayan97&label=Profile%20views&color=0e75b6&style=flat" alt="burakayan97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakayan97" alt="burakayan97" /></a> </p>
-
 ```yaml
-name: "Deneme"
+name: Burak Ayan
+located_in: Maltepe, ISTANBUL
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Civil Engineering",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+experienced_with : 
+  [
+    "C# , ASP.Net Core , ASP.Net MVC , HTML , CSS, Bootstrap , JavaScript , JQuery, React , Microsoft SQL Server , Web API , Entity Framework Core , N-Tier Architecture , Design Patterns , SOLID Principles , Agile-Scrum , Postman"
+  ]
+
+familiar_with : 
+  [
+    "MySQL , PostgreSQL , RabbitMQ , Redis , SignalR , PostgreSQL"
+  ]
+
+want_to_learn :
+  [  
+    "Microservices , DevOps , NodeJS , TypeScript "
+  ]
+  
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies and find a job."]
+
+hobbies: ["Gaming", "Trekking", "Camping", "Rock Climbing", "Psychology","Ping Pong"]
 ```
 
 <h3 align="left">Connect with me:</h3>
