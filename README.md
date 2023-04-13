@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakayan97" alt="burakayan97" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/publicvoidburak" target="blank"><img src="https://img.shields.io/twitter/follow/publicvoidburak?logo=twitter&style=for-the-badge" alt="publicvoidburak" /></a> </p>
+```yaml
+name: "Deneme"
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
