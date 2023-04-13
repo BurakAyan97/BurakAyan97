@@ -25,18 +25,18 @@ technical_background:
   
 experienced_with : 
   [
-    "C# , ASP.Net Core , ASP.Net MVC , HTML , CSS, Bootstrap , JavaScript , JQuery, React , Microsoft SQL Server , 
-    Web API , Entity Framework Core , N-Tier Architecture , Design Patterns , SOLID Principles , Agile-Scrum , Postman"
+    "C#", "ASP.Net Core" , "ASP.Net MVC" , "HTML" , "CSS", "Bootstrap" , "JavaScript" , "JQuery" , "React" , "Microsoft SQL Server" , 
+    "Web API" , "Entity Framework Core" , "N-Tier Architecture" , "Design Patterns" , "SOLID Principles" , "Agile-Scrum" , "Postman"
   ]
 
 familiar_with : 
   [
-    "MySQL , PostgreSQL , RabbitMQ , Redis , SignalR , PostgreSQL"
+    "MySQL" , "PostgreSQL" , "RabbitMQ" , "Redis" , "SignalR" , "PostgreSQL"
   ]
 
 want_to_learn :
   [  
-    "Microservices , DevOps , NodeJS , TypeScript "
+    "Microservices" , DevOps" , NodeJS" , TypeScript"
   ]
   
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies and find a job."]
