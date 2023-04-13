@@ -13,19 +13,14 @@ education:
   ]
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
+    "Back-End Developer",
+    "Front-End Developer",
+    "Full-Stack Developer",
     "DevOps",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "BilgeAdam Boost Star Trainee Software Developer Program (660+ Hours)",
   ]
   
 experienced_with : 
