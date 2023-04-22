@@ -3,9 +3,9 @@
 
 ```yaml
 
-name: Burak Ayan
-located_in: Maltepe, ISTANBUL
-current_job: Full Stack Developer
+name: "Burak Ayan"
+located_in: "Maltepe, ISTANBUL"
+current_job: "Full Stack Developer"
 education:
   [
     "Self-Taught Developer and Designer",
