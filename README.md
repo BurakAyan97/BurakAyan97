@@ -31,7 +31,7 @@ experienced_with :
 
 familiar_with : 
   [
-    "MySQL" , "PostgreSQL" , "RabbitMQ" , "Redis" , "SignalR" , "PostgreSQL"
+    "MySQL" , "PostgreSQL" , "RabbitMQ" , "Redis" , "SignalR" , "PostgreSQL","Onion Architecture"
   ]
 
 want_to_learn :
