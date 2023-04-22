@@ -9,6 +9,7 @@ current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
+    "BilgeAdam Boost Star Trainee Software Developer Program (660+ Hours)",
     "Bachelor's in Civil Engineering",
   ]
 fields_of_interests:
