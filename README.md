@@ -27,7 +27,7 @@ technical_background:
 experienced_with : 
   [
     "C#", "ASP.Net Core" , "ASP.Net MVC" , "HTML" , "CSS", "Bootstrap" , "JavaScript" , "JQuery" , "React", "Git", "GitHub", "Microsoft SQL Server" , 
-    "Web API" , "Entity Framework Core" , "N-Tier Architecture" , "Design Patterns" , "SOLID Principles" , "Agile-Scrum" , "Postman"
+    "Web API" , "Entity Framework Core" , "N-Tier Architecture" , "Design Patterns" , "SOLID Principles" , "Agile-Scrum" , "Postman", "Azure DevOps"
   ]
 
 familiar_with : 
