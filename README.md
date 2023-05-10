@@ -18,6 +18,7 @@ fields_of_interests:
     "Front-End Developer",
     "Full-Stack Developer",
     "DevOps",
+    "Design Patterns"
   ]
 technical_background:
   [
