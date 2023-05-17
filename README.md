@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">A curious .Net Developer from Turkey!</h3>
+<h3 align="center">A curious .Net Developer from Turkey</h3>
 
 ```yaml
 
