@@ -34,7 +34,7 @@ experienced_with :
 
 familiar_with : 
   [
-    "MySQL" , "PostgreSQL" , "RabbitMQ" , "Redis" , "SignalR" , "PostgreSQL","Onion Architecture","Microservices", "IdentityServer4"
+    "MySQL", "RabbitMQ" , "Redis" , "SignalR" , "PostgreSQL","Onion Architecture","Microservices", "IdentityServer4"
   ]
 
 want_to_learn :
