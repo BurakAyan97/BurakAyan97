@@ -34,12 +34,12 @@ experienced_with :
 
 familiar_with : 
   [
-    "MySQL", "RabbitMQ" , "Redis" , "SignalR" , "PostgreSQL","Onion Architecture","Microservices", "IdentityServer4","Dapper"
+    "MySQL", "RabbitMQ" , "Redis" , "SignalR" , "PostgreSQL","Onion Architecture","Microservices", "IdentityServer4","Dapper", "TypeScript"
   ]
 
 want_to_learn :
   [  
-    "DevOps" , "NodeJS" , "TypeScript","Golang"
+    "DevOps" , "NodeJS" ,"Golang"
   ]
   
 2023 Goals: ["Create 25+ Projects and learn at least 5 new Technologies and find a job."]
