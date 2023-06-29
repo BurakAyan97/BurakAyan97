@@ -8,7 +8,6 @@ located_in: "Maltepe, ISTANBUL"
 current_job: "Intern at Bilge Adam"
 education:
   [
-    "Self-Taught Developer and Designer",
     "Bilge Adam Boost Star Trainee Software Developer Program (660+ Hours)",
     "Bachelor's in Civil Engineering",
   ]
