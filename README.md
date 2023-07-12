@@ -22,8 +22,7 @@ fields_of_interests:
 technical_background:
   [
     "BilgeAdam Boost Star Trainee Software Developer Program (660+ Hours)",
-  ]
-  
+  ] 
 experienced_with : 
   [
     "C#", "ASP.Net Core", "ASP.Net MVC", "HTML", "CSS", "Bootstrap", "JavaScript", "JQuery", "React", "Git", 
