@@ -5,7 +5,7 @@
 
 name: "Burak Ayan"
 located_in: "Maltepe, ISTANBUL"
-current_job: "Intern at Bilge Adam"
+current_job: "Back End Developer at RGN Yazılım"
 education:
   [
     "Bilge Adam Boost Star Trainee Software Developer Program (660+ Hours)",
