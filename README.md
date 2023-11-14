@@ -8,6 +8,7 @@ located_in: "Maltepe, ISTANBUL"
 current_job: "Back End Developer at RGN Yazılım"
 education:
   [
+    "Istanbul University - Computer Programming"
     "Bilge Adam Boost Star Trainee Software Developer Program (660+ Hours)",
     "Bachelor's in Civil Engineering",
   ]
