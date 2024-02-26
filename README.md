@@ -5,7 +5,7 @@
 
 name: "Burak Ayan"
 located_in: "Maltepe, ISTANBUL"
-current_job: "Back End Developer at RGN Yazılım"
+current_job: "Back End Developer"
 education:
   [
     "Istanbul University - Computer Programming"
@@ -22,13 +22,14 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "BilgeAdam Boost Star Trainee Software Developer Program (660+ Hours)",
+    "BilgeAdam Boost Star Trainee Software Developer Program (660+ Hours)"
+    "İstanbul University - Computer Programming",
   ] 
 experienced_with : 
   [
     "C#", "ASP.Net Core", "ASP.Net MVC", "HTML", "CSS", "Bootstrap", "JavaScript", "JQuery", "React", "Git", 
     "GitHub", "Microsoft SQL Server", "Web API", "Entity Framework Core", "N-Tier Architecture", "Design Patterns", 
-    "SOLID Principles", "Agile-Scrum", "Postman", "Azure DevOps", "MediatR-CQRS"
+    "SOLID Principles", "Agile-Scrum", "Postman", "Azure DevOps", "MediatR-CQRS","NodeJS","MongoDB"
   ]
 
 familiar_with : 
@@ -38,10 +39,10 @@ familiar_with :
 
 want_to_learn :
   [  
-    "DevOps" , "NodeJS" ,"Golang"
+    "DevOps" ,"Golang"
   ]
   
-2023 Goals: ["Create 25+ Projects and learn at least 5 new Technologies and find a job."]
+2024 Goals: ["Create 15+ Projects with NodeJS and learn at least 1 new Technologies to improve my skills."]
 
 hobbies: ["Gaming", "Trekking", "Camping", "Rock Climbing", "Chess", "Psychology", "Ping Pong"]
 
